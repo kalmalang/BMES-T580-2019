@@ -76,3 +76,5 @@ Modify the code to have the following features.
 ## Resources Used
 
 - Random choices from lists: https://docs.python.org/2/library/random.html#random.choice
+- Adding .png into readme: https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+- Code for guess that primer game: https://drexel.zoom.us/recording/play/R66LJu-FctZ5Y1BuAeulxPnnya1EhTq3iGiXYTTEpaYoExQe29FH8-hjQ5EbUhr6?continueMode=true
