@@ -47,6 +47,8 @@ Modify the code to have the following features.
     - If the user guesses correctly. Print a congrats and exit.
     - If the user guesses incorrectly, Print the number of correct letters. Then allow another guess.
 
+![alt text](https://github.com/kalmalang/BMES-T580-2019/blob/master/Module02/Screen%20Shot%202019-06-30%20at%206.15.13%20PM.png)
+
 ## Rubric
 
 ### PJS Grade:
@@ -74,3 +76,5 @@ Modify the code to have the following features.
 ## Resources Used
 
 - Random choices from lists: https://docs.python.org/2/library/random.html#random.choice
+- Adding .png into readme: https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+- Code for guess that primer game: https://drexel.zoom.us/recording/play/R66LJu-FctZ5Y1BuAeulxPnnya1EhTq3iGiXYTTEpaYoExQe29FH8-hjQ5EbUhr6?continueMode=true
